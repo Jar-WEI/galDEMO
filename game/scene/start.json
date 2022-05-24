@@ -1,1 +1,1 @@
-[{"type":"intro","content":["DEMO"]},{"type":"dialog","speaker":"gal","content":"a test","vocal":"","ignoreSpeaker":false},{"type":"video","video":"OP.mp4"}]
+[{"type":"intro","content":["DEMO"]},{"type":"dialog","speaker":"gal","content":"a test","vocal":"V1.ogg","ignoreSpeaker":false},{"type":"video","video":"OP.mp4"},{"type":"changeP","newP":"kanna.png","next":false,"noP":false,"pos":"right"},{"type":"bg","bg":"cafe.jpg","noBg":false,"next":false}]

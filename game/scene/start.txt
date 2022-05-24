@@ -1,3 +1,5 @@
 intro:DEMO;
-gal:a test;
+gal:a test -V1.ogg;
 playVideo:OP.mp4;
+changeFigure:kanna.png -right;
+changeBg:cafe.jpg
